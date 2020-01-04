@@ -2,7 +2,7 @@
 name: New discussion
 about: Start a discussion about a certain topic
 title: ''
-labels: ''
+labels: discussion
 assignees: ''
 ---
 
