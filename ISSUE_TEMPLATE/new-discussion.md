@@ -4,7 +4,6 @@ about: Start a discussion about a certain topic
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 ### Topic and scope of discussion

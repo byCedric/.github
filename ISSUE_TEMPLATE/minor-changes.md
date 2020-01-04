@@ -1,12 +1,15 @@
 ---
 name: Minor changes
 about: Suggest a small change, or fix, like typos
+title: ''
+labels: ''
+assignees: ''
 ---
 
-#### Old version
+### Old version
 What did you find that should be changed?
 
-#### New version
+### New version
 How should it look after the suggested change?
 
 ### Additional context
